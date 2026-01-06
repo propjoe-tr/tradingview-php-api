@@ -34,7 +34,7 @@
 
 ```bash
 # 1. Repo'yu klonla
-git clone https://github.com/KULLANICI/tradingview-php-api.git
+git clone https://github.com/propjoe-tr/tradingview-php-api.git
 
 # 2. Web sunucusuna kopyala
 cp tradingview.php /var/www/html/
